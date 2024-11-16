@@ -43,7 +43,7 @@ Using Docker Compose:
 
 bash
 Copy code
-docker-compose up --build
+docker compose up --build
 3. Access the Application
 Once the services are running, you can interact with the application through the console by executing:
 
