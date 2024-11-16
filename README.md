@@ -36,7 +36,7 @@ Copy code
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Demigoddrre/grocery-store-management.git
+git clone https://github.com/Demigoddrre/grocery_store_project.git
 cd grocery-store-management
 2. Build and Start the Application
 Using Docker Compose:
